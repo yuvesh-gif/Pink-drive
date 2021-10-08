@@ -30,7 +30,7 @@ body{
     display: block;
     margin: 20px auto;
     text-align: center;
-    border: 3px solid black;
+    border: 3px solid rgb(0, 0, 0);
     padding: 14px 10px;
     width: 220px;
     outline: none;
@@ -61,5 +61,5 @@ body{
   
 }
 .box input[type="submit"]:hover{
-    background: #e071b6a8;
+    background: #bd5e98a8;
 }

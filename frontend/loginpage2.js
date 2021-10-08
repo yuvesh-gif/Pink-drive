@@ -9,7 +9,7 @@ function validate()
 }
 else
 {
-    alert("Login failed");
+    alert("Login Failed");
 }
 
 }
